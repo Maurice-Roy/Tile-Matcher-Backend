@@ -7,8 +7,8 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 #set filepaths in arrays
-emoticon_tiles = ['./public/images/tile1.png', './public/images/tile2.png', './public/images/tile3.png', './public/images/tile4.png', './public/images/tile5.png', './public/images/tile6.png', './public/images/tile7.png', './public/images/tile8.png']
-programming_logo_tiles = ['./public/images/css3-full.svg', './public/images/github-badge.svg', './public/images/html5.svg', './public/images/js-badge.svg', './public/images/python.svg', './public/images/react.svg', './public/images/ruby-on-rails.svg', './public/images/ruby.svg']
+emoticon_tiles = ['https://i.imgur.com/Ozx0mt0.png', 'https://i.imgur.com/FaTISEb.png', 'https://i.imgur.com/hkJHn6T.png', 'https://i.imgur.com/zNy05pT.png', 'https://i.imgur.com/Q7xoog4.png', 'https://i.imgur.com/yRGERDb.png', 'https://i.imgur.com/8OrVKqV.png', 'https://i.imgur.com/tSHzlvr.png']
+programming_logo_tiles = ['https://svgshare.com/i/5Zp.svg', 'https://svgshare.com/i/5_U.svg', 'https://svgshare.com/i/5Zq.svg', 'https://svgshare.com/i/5_L.svg', 'https://svgshare.com/i/5Yt.svg', 'https://svgshare.com/i/5_B.svg', 'https://svgshare.com/i/5Yu.svg', 'https://svgshare.com/i/5ZE.svg']
 
 #create new tilesets (not saved yet)
 emoticon_tileset = Tileset.new
