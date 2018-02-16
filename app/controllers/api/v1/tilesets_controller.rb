@@ -10,6 +10,7 @@ class Api::V1::TilesetsController < ApplicationController
   end
 
   def update
-    
+    @tileset.update(tileset_params)
+    render json: @tileset, status: 200
   end
 end
